@@ -20,6 +20,6 @@
     <!--  Bootstrap css plugins -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- template main style css file -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
