@@ -3,7 +3,6 @@
     <div class="slider-controls">
         <div class="banner-slider-arrows d-flex flex-column"></div>
     </div>
-
     <div class="banner-slider overflow-hidden">
         <div class="slider-item" style="background-image: url(assets/img/banner/banne-slider-1.png);">
             <div class="number" data-animation="fadeInUp" data-delay="0.6s">01</div>
