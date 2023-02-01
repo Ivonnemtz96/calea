@@ -10,16 +10,16 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="banner__content text-center">
-                            <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
-                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6>
+                            <!-- <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
+                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6> -->
                             <h1 class="title color-white mb-sm-30 mb-xs-20 mb-40" data-animation="fadeInUp"
-                                data-delay="1s">A big Opportutnity for your Business Growth</h1>
+                                data-delay="1s">Somos una firma especializada</h1>
 
                             <div class="theme-btn__wrapper d-flex justify-content-center">
                                 <a href="services.html" class="theme-btn btn-sm" data-animation="fadeInUp"
-                                    data-delay="1.3s">Our Services <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    data-delay="1.3s">Servicios <i class="fas fa-long-arrow-alt-right"></i></a>
                                 <a href="about.html" class="theme-btn btn-sm btn-white" data-animation="fadeInUp"
-                                    data-delay="1.5s">Get A Quote <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    data-delay="1.5s">Contactar <i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -33,16 +33,16 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="banner__content text-center">
-                            <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
-                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6>
+                            <!-- <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
+                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6> -->
                             <h1 class="title color-white mb-sm-30 mb-xs-20 mb-40" data-animation="fadeInUp"
-                                data-delay="1s">A big Opportutnity for your Business Growth</h1>
+                                data-delay="1s">Desarrollamos un plan estratégico ineligente</h1>
 
                             <div class="theme-btn__wrapper d-flex justify-content-center">
                                 <a href="services.html" class="theme-btn btn-sm" data-animation="fadeInUp"
-                                    data-delay="1.3s">Our Services <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    data-delay="1.3s">Servicios <i class="fas fa-long-arrow-alt-right"></i></a>
                                 <a href="about.html" class="theme-btn btn-sm btn-white" data-animation="fadeInUp"
-                                    data-delay="1.5s">Get A Quote <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    data-delay="1.5s">Contacto <i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -56,16 +56,16 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="banner__content text-center">
-                            <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
-                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6>
+                            <!-- <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
+                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6> -->
                             <h1 class="title color-white mb-sm-30 mb-xs-20 mb-40" data-animation="fadeInUp"
-                                data-delay="1s">A big Opportutnity for your Business Growth</h1>
+                                data-delay="1s">Consultoría en planeación estratégica</h1>
 
                             <div class="theme-btn__wrapper d-flex justify-content-center">
                                 <a href="services.html" class="theme-btn btn-sm" data-animation="fadeInUp"
-                                    data-delay="1.3s">Our Services <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    data-delay="1.3s">Servicios <i class="fas fa-long-arrow-alt-right"></i></a>
                                 <a href="about.html" class="theme-btn btn-sm btn-white" data-animation="fadeInUp"
-                                    data-delay="1.5s">Get A Quote <i class="fas fa-long-arrow-alt-right"></i></a>
+                                    data-delay="1.5s">Contacto <i class="fas fa-long-arrow-alt-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -83,14 +83,22 @@
             <div class="col-xl-6">
                 <div class="about-us__content  mb-lg-60 mb-md-50 mb-sm-40 mb-xs-30">
                     <span class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block"><img
-                            src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt=""> About
-                        Us</span>
-                    <h2 class="title color-secondary mb-20 mb-sm-15 mb-xs-10">We Create a Culture That Inspires Us To
-                        Work Smart Together</h2>
+                            src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
+                        Sobre nosotros
+                    </span>
+                    <h2 class="title color-secondary mb-20 mb-sm-15 mb-xs-10">
+                        Consultoría contable, jurídica y fiscal.
+                    </h2>
 
                     <div class="description font-la mb-50 mb-sm-40 mb-xs-30">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                        <p style="text-transform: none;">
+                            Somos una firma de consultores y especialistas contables, fiscales y legales donde
+                            trabajamos integralmente teniendo como objetivo solucionar y satisfacer las
+                            expectativas de nuestros clientes brindándoles servicios profesionales de manera
+                            individualizada, adecuada a sus necesidades para ofrecerles información asertiva y oportuna
+                            que disminuya los riesgos orientando siempre hacia una correcta toma de decisiones para el
+                            cumplimento de las metas logrando extraordinarios resultados.y/ o negocios.
+
                         </p>
                     </div>
 
@@ -98,21 +106,22 @@
                         class="circle-chart__wrapper d-flex flex-wrap justify-content-between mb-60 mb-md-50 mb-sm-40 mb-xs-30">
                         <div class="circle-chart__item d-flex align-items-center">
                             <div class="chart-wrapper">
-                                <div class="chart" data-percent="87" data-scale-color="#ffb400">87%</div>
+                                <div class="chart" data-percent="100" data-scale-color="#ffb400">100%</div>
                             </div>
-                            <h6 class="title color-secondary">Digital Consultancy</h6>
+                            <h6 class="title color-secondary">Servicio</h6>
                         </div>
 
                         <div class="circle-chart__item d-flex align-items-center">
                             <div class="chart-wrapper">
-                                <div class="chart" data-percent="79" data-scale-color="#ffb400">79%</div>
+                                <div class="chart" data-percent="100" data-scale-color="#ffb400">100%</div>
                             </div>
-                            <h6 class="title color-secondary">Business Consulting</h6>
+                            <h6 class="title color-secondary">Calidad</h6>
                         </div>
                     </div>
 
-                    <a href="about.html" class="theme-btn  btn-yellow-transparent fw-600">Read More <i
-                            class="fas fa-long-arrow-alt-right"></i></a>
+                    <a href="about.html" class="theme-btn  btn-yellow-transparent fw-600">
+                        Ver servicios <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
                 </div>
             </div>
 
@@ -124,8 +133,8 @@
 
                     <div class="expert-team expert-team-one text-center"
                         style="background-image: url(assets/img/home-2/expert-team-1.png)">
-                        <div class="number color-white mb-10 mb-xs-5 fw-600"><span>100</span>+</div>
-                        <h6 class="title font-la color-white">Expert Team Members</h6>
+                        <!-- <div class="number color-white mb-10 mb-xs-5 fw-600"><span>100</span>+</div> -->
+                        <h6 class="title font-la color-white">Profesionales a cargo</h6>
                     </div>
 
                     <div class="expert-team expert-team-two text-center"
@@ -969,9 +978,11 @@
                         <div class="pricing__card-header">
                             <h3 class="title color-d_black">Basic Plan</h3>
                             <h6 class="sub-title font-la fw-600 text-uppercase mb-30 mb-sm-25 mb-xs-15">Start package
-                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt=""></h6>
+                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt="">
+                            </h6>
                             <div class="price color-white mb-30 mb-sm-25 mb-xs-15 overflow-hidden">$29.00
-                                <span>/Monthly</span></div>
+                                <span>/Monthly</span>
+                            </div>
                             <p>Plan for businesses with basic IT requirements</p>
                         </div>
                         <div class="pricing__card-body">
@@ -994,9 +1005,11 @@
                         <div class="pricing__card-header">
                             <h3 class="title color-d_black">Standard Plan</h3>
                             <h6 class="sub-title font-la fw-600 text-uppercase mb-30 mb-sm-25 mb-xs-15">Start package
-                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt=""></h6>
+                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt="">
+                            </h6>
                             <div class="price color-white mb-30 mb-sm-25 mb-xs-15 overflow-hidden">$49.00
-                                <span>/Monthly</span></div>
+                                <span>/Monthly</span>
+                            </div>
                             <p>Plan for businesses with basic IT requirements</p>
                         </div>
                         <div class="pricing__card-body">
@@ -1019,9 +1032,11 @@
                         <div class="pricing__card-header">
                             <h3 class="title color-d_black">Professional</h3>
                             <h6 class="sub-title font-la fw-600 text-uppercase mb-30 mb-sm-25 mb-xs-15">Start package
-                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt=""></h6>
+                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt="">
+                            </h6>
                             <div class="price color-white mb-30 mb-sm-25 mb-xs-15 overflow-hidden">$99.00
-                                <span>/Monthly</span></div>
+                                <span>/Monthly</span>
+                            </div>
                             <p>Plan for businesses with basic IT requirements</p>
                         </div>
                         <div class="pricing__card-body">
@@ -1046,9 +1061,11 @@
                         <div class="pricing__card-header">
                             <h3 class="title color-d_black">Basic Plan</h3>
                             <h6 class="sub-title font-la fw-600 text-uppercase mb-30 mb-sm-25 mb-xs-15">Start package
-                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt=""></h6>
+                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt="">
+                            </h6>
                             <div class="price color-white mb-30 mb-sm-25 mb-xs-15 overflow-hidden">$50.00
-                                <span>/Yearly</span></div>
+                                <span>/Yearly</span>
+                            </div>
                             <p>Plan for businesses with basic IT requirements</p>
                         </div>
                         <div class="pricing__card-body">
@@ -1071,9 +1088,11 @@
                         <div class="pricing__card-header">
                             <h3 class="title color-d_black">Standard Plan</h3>
                             <h6 class="sub-title font-la fw-600 text-uppercase mb-30 mb-sm-25 mb-xs-15">Start package
-                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt=""></h6>
+                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt="">
+                            </h6>
                             <div class="price color-white mb-30 mb-sm-25 mb-xs-15 overflow-hidden">$99.00
-                                <span>/Yearly</span></div>
+                                <span>/Yearly</span>
+                            </div>
                             <p>Plan for businesses with basic IT requirements</p>
                         </div>
                         <div class="pricing__card-body">
@@ -1096,9 +1115,11 @@
                         <div class="pricing__card-header">
                             <h3 class="title color-d_black">Professional</h3>
                             <h6 class="sub-title font-la fw-600 text-uppercase mb-30 mb-sm-25 mb-xs-15">Start package
-                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt=""></h6>
+                                <img src="assets/img/icon/hand-4.svg" class="img-fluid" alt="">
+                            </h6>
                             <div class="price color-white mb-30 mb-sm-25 mb-xs-15 overflow-hidden">$999.00
-                                <span>/Yearly</span></div>
+                                <span>/Yearly</span>
+                            </div>
                             <p>Plan for businesses with basic IT requirements</p>
                         </div>
                         <div class="pricing__card-body">
