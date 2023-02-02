@@ -18,7 +18,7 @@
   @-webkit-keyframes color {
       0% { fill: #EF0548; }
       50% { fill: #454c56; } 
-      100% { fill: #4069FF; }
+      100% { fill: #000; }
     }
 
     #color, #colorx {

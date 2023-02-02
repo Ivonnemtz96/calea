@@ -1,80 +1,38 @@
-<!-- banner slider start -->
-<section class="banner-slider__wrapper pt-0 pb-0 overflow-hidden">
-    <div class="slider-controls">
-        <div class="banner-slider-arrows d-flex flex-column"></div>
-    </div>
-    <div class="banner-slider overflow-hidden">
-        <div class="slider-item" style="background-image: url(assets/img/banner/banne-slider-1.png);">
-            <div class="number" data-animation="fadeInUp" data-delay="0.6s">01</div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="banner__content text-center">
-                            <!-- <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
-                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6> -->
-                            <h1 class="title color-white mb-sm-30 mb-xs-20 mb-40" data-animation="fadeInUp"
-                                data-delay="1s">Somos una firma especializada</h1>
+<!-- banner-home start -->
+<section class="banner-home overflow-hidden pt-lg-100 pt-md-90 pt-sm-80 pt-xs-70">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-6">
+                <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40">
+                    <h6 class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Welcome To
+                        <span>Consulter</span> Consultancy</h6>
+                    <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Build Up Your Business Strategy</h1>
 
-                            <div class="theme-btn__wrapper d-flex justify-content-center">
-                                <a href="services.html" class="theme-btn btn-sm" data-animation="fadeInUp"
-                                    data-delay="1.3s">Servicios <i class="fas fa-long-arrow-alt-right"></i></a>
-                                <a href="about.html" class="theme-btn btn-sm btn-white" data-animation="fadeInUp"
-                                    data-delay="1.5s">Contactar <i class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
-                        </div>
+                    <div class="description font-la color-white mb-45 mb-md-30 mb-sm-25 mb-xs-20">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore.</p>
+                    </div>
+
+                    <div class="theme-btn__wrapper d-flex flex-wrap">
+                        <a href="blog.html" class="theme-btn fw-600 btn-red">Find Consultant <i
+                                class="far fa-chevron-double-right"></i></a>
+                        <a href="about.html" class="theme-btn fw-600 btn-white-border">Read More <i
+                                class="far fa-chevron-double-right"></i></a>
                     </div>
                 </div>
+
             </div>
-        </div>
 
-        <div class="slider-item" style="background-image: url(assets/img/banner/banne-slider-1.png);">
-            <div class="number" data-animation="fadeInUp" data-delay="0.6s">01</div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="banner__content text-center">
-                            <!-- <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
-                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6> -->
-                            <h1 class="title color-white mb-sm-30 mb-xs-20 mb-40" data-animation="fadeInUp"
-                                data-delay="1s">Desarrollamos un plan estratégico ineligente</h1>
-
-                            <div class="theme-btn__wrapper d-flex justify-content-center">
-                                <a href="services.html" class="theme-btn btn-sm" data-animation="fadeInUp"
-                                    data-delay="1.3s">Servicios <i class="fas fa-long-arrow-alt-right"></i></a>
-                                <a href="about.html" class="theme-btn btn-sm btn-white" data-animation="fadeInUp"
-                                    data-delay="1.5s">Contacto <i class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="slider-item" style="background-image: url(assets/img/banner/banne-slider-1.png);">
-            <div class="number" data-animation="fadeInUp" data-delay="0.6s">01</div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="banner__content text-center">
-                            <!-- <h6 class="sub-title color-white mb-15 mb-sm-15 mb-xs-10" data-animation="fadeInUp"
-                                data-delay="0.5s"><span>30 Years</span> Of Successful Business Consulting</h6> -->
-                            <h1 class="title color-white mb-sm-30 mb-xs-20 mb-40" data-animation="fadeInUp"
-                                data-delay="1s">Consultoría en planeación estratégica</h1>
-
-                            <div class="theme-btn__wrapper d-flex justify-content-center">
-                                <a href="services.html" class="theme-btn btn-sm" data-animation="fadeInUp"
-                                    data-delay="1.3s">Servicios <i class="fas fa-long-arrow-alt-right"></i></a>
-                                <a href="about.html" class="theme-btn btn-sm btn-white" data-animation="fadeInUp"
-                                    data-delay="1.5s">Contacto <i class="fas fa-long-arrow-alt-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-xl-6">
+                <div class="banner-home__media">
+                    <img src="assets/img/banner/banner-start.svg" class="img-fluid start" alt="">
+                    <img src="assets/img/banner/banner-home.png" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- banner slider end -->
+<!-- banner-home end -->
 
 <!-- about-us start -->
 <section class="about-us pb-xs-80 pt-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden">
@@ -222,7 +180,7 @@
                                 <!-- <div class="description font-la mb-10 mb-xs-5">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do.</p>
                                 </div> -->
-                                <div >
+                                <div>
                                     <ul>
                                         <li>Servicio </li>
                                         <li>Calidad </li>
