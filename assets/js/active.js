@@ -533,7 +533,7 @@ Author: RRDevs
 
 		$('.chart').easyPieChart({
 			size: 80,
-			barColor: "#FF9C00",
+			barColor: "#454c56",
 			rotate: 65,
 			scaleLength: 0,
 			lineWidth: 10,

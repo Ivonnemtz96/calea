@@ -17,7 +17,7 @@
 
   @-webkit-keyframes color {
       0% { fill: #EF0548; }
-      50% { fill: #FF9C00; } 
+      50% { fill: #454c56; } 
       100% { fill: #4069FF; }
     }
 
