@@ -21,17 +21,17 @@
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Llámanos</span>
-                                <h5 class="fw-600 color-white">(232) 456-7890</h5>
+                                <h5 class="fw-600 color-white">624 141 8210</h5>
                             </div>
                         </a>
 
-                        <a href="mailto:consulter@gmail.com" class="header-contact d-none d-md-flex align-items-center">
+                        <a href="mailto:castroc@caleaconsultores.com" class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
                                 <i class="icon-email"></i>
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Correo</span>
-                                <h5 class="fw-600 color-white">consulter@gmail.com</h5>
+                                <h5 class="fw-600 color-white">castroc@caleaconsultores.com</h5>
                             </div>
                         </a>
 
@@ -41,7 +41,7 @@
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Dirección</span>
-                                <h5 class="fw-600 color-white">Sun City, USA</h5>
+                                <h5 class="fw-600 color-white">San José del Cabo</h5>
                             </div>
                         </a>
 

@@ -156,6 +156,93 @@
 </section>
 <!-- about-us end -->
 
+<section class="our-company  pt-xs-80 pb-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="our-company__meida">
+                    <img src="assets/img/about/our-company-1.png" alt="" class="img-fluid">
+
+                    <!-- <div class="years-experience overflow-hidden mt-20 mt-sm-10 mt-xs-10 text-center">
+                        <div class="number mb-5 color-white">
+                            <span class="counter">23</span><sup>+</sup>
+                        </div>
+
+                        <h5 class="title color-white">Years Experience</h5>
+                    </div> -->
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6">
+                <div class="our-company__meida border-radius">
+                    <img src="assets/img/about/our-company-2.png" alt="" class="img-fluid">
+
+                    <div class="horizental-bar"></div>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="our-company__content mt-md-50 mt-sm-40 mt-xs-35">
+                    <span class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block">
+                        <img src="assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
+                        Más sobre nosotros
+                    </span>
+                    <h2 class="title color-d_black mb-20 mb-sm-15 mb-xs-10">Calea Consultores</h2>
+
+                    <div class="descriiption font-la mb-30 mb-md-25 mb-sm-20 mb-xs-15">
+                        <h6>Misión</h6>
+                        <p>
+                            Proporcionar a nuestros clientes y MiPyME servicios de la más alta calidad en materia
+                            contable, fiscal y legal mediante, trabajo especializado, apoyando con estrategias, coaching
+                            empresarial e información financiera asertiva la cual permita la correcta toma de decisiones
+                            que contribuyan a un sólido fortalecimiento y rápido desarrollo en el mercado.
+                        </p>
+                    </div>
+
+                    <div class="descriiption font-la mb-30 mb-md-25 mb-sm-20 mb-xs-15">
+                        <h6>Visión</h6>
+                        <p>
+                            Ser una consultora líder de alto prestigio reconocida por su honestidad, responsabilidad,
+                            formalidad y profesionalismo, caracterizada por trabajar siempre de manera vanguardista con
+                            los más altos estándares de calidad total en materia contable fiscal y legal. logrando que
+                            tanto colaboradores como Clientes se sientan orgullosos y satisfechos de pertenecer a
+                            nuestra firma.
+                        </p>
+                    </div>
+
+                    <div class="client-feedback d-flex flex-column flex-sm-row">
+                        <div class="client-feedback__item text-center">
+                            <div class="client-feedback__item-header">
+                                <span class="color-primary font-la fw-600 text-uppercase">Nuestros valores</span>
+                            </div>
+
+                            <div class="client-feedback__item-body">
+                                <!-- <div class="number mb-10 mb-xs-5 color-d_black fw-600">+<span class="counter">95</span>%
+                                </div> -->
+                                <!-- <div class="description font-la mb-10 mb-xs-5">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do.</p>
+                                </div> -->
+                                <div >
+                                    <ul>
+                                        <li>Servicio </li>
+                                        <li>Calidad </li>
+                                        <li>Colaboración y trabajo en equipo </li>
+                                        <li>Honestidad </li>
+                                        <li>Compromiso </li>
+                                        <li>Responsabilidad</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- our-company end -->
+
 <!-- our-provide start -->
 <section
     class="similar-work services-work bg-dark_white pb-xs-80 pt-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-135 pb-120 overflow-hidden">
@@ -369,6 +456,8 @@
     </div>
 </section>
 <!-- why-choose end -->
+
+
 
 <!-- counter-area start -->
 <div hidden class="counter-area pb-xs-80 pb-sm-100 pb-md-100 pb-120 overflow-hidden">
