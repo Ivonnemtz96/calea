@@ -4,19 +4,22 @@
         <div class="row align-items-center">
             <div class="col-xl-6">
                 <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40">
-                    <h6 class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Welcome To
-                        <span>Consulter</span> Consultancy</h6>
-                    <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Build Up Your Business Strategy</h1>
+                    <h6 class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Bienvenidos a
+                        <span style="color: #000;">Calea Consultores</span>
+                    </h6>
+                    <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Expertos en el área</h1>
 
                     <div class="description font-la color-white mb-45 mb-md-30 mb-sm-25 mb-xs-20">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore.</p>
+                        <p>
+                            Confíe en la gran experiencia profesional que tenemos y permítanos hacernos cargo de sus
+                            procesos contables e impuestos.
+                        </p>
                     </div>
 
                     <div class="theme-btn__wrapper d-flex flex-wrap">
-                        <a href="blog.html" class="theme-btn fw-600 btn-red">Find Consultant <i
+                        <a href="blog.html" class="theme-btn fw-600 btn-red">Ver Servicios <i
                                 class="far fa-chevron-double-right"></i></a>
-                        <a href="about.html" class="theme-btn fw-600 btn-white-border">Read More <i
+                        <a href="about.html" class="theme-btn fw-600 btn-white-border">Contactar <i
                                 class="far fa-chevron-double-right"></i></a>
                     </div>
                 </div>
@@ -25,8 +28,7 @@
 
             <div class="col-xl-6">
                 <div class="banner-home__media">
-                    <img src="assets/img/banner/banner-start.svg" class="img-fluid start" alt="">
-                    <img src="assets/img/banner/banner-home.png" class="img-fluid" alt="">
+                    <img src="assets/img/banner/banner-home.jpg" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -41,7 +43,7 @@
             <div class="col-xl-6">
                 <div class="about-us__content  mb-lg-60 mb-md-50 mb-sm-40 mb-xs-30">
                     <span class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block"><img
-                            src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
+                            src="/assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Sobre nosotros
                     </span>
                     <h2 class="title color-secondary mb-20 mb-sm-15 mb-xs-10">
@@ -86,7 +88,7 @@
             <div class="col-xl-6">
                 <div class="about-us__media d-flex align-content-center justify-content-center align-items-center">
                     <div class="media">
-                        <img src="assets/img/home-2/about-media.png" class="img-fluid" alt="">
+                        <img src="assets/img/home-2/about-media.jpg" class="img-fluid" alt="">
                     </div>
 
                     <div class="expert-team expert-team-one text-center"
@@ -119,7 +121,7 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6">
                 <div class="our-company__meida">
-                    <img src="assets/img/about/our-company-1.png" alt="" class="img-fluid">
+                    <img src="assets/img/about/our-company-1.jpg" alt="" class="img-fluid">
 
                     <!-- <div class="years-experience overflow-hidden mt-20 mt-sm-10 mt-xs-10 text-center">
                         <div class="number mb-5 color-white">
@@ -133,7 +135,7 @@
 
             <div class="col-lg-3 col-sm-6">
                 <div class="our-company__meida border-radius">
-                    <img src="assets/img/about/our-company-2.png" alt="" class="img-fluid">
+                    <img src="assets/img/about/our-company-2.jpg" alt="" class="img-fluid">
 
                     <div class="horizental-bar"></div>
                 </div>
