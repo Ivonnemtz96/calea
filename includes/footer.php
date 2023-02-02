@@ -1,5 +1,5 @@
 <!-- footer start -->
-<footer class="footer-1 footer-2 overflow-hidden" style="background-image: url(assets/img/footer/footer-bg-2.png);">
+<footer class="footer-1 footer-2 overflow-hidden" style="background-image: url(/assets/img/footer/footer-bg-2.png);">
     <div class="footer-top__cta mb-80 mb-lg-60 mb-sm-50 mb-xs-40">
         <div class="container">
             <div class="row">

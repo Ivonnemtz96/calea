@@ -7,7 +7,7 @@
                     <div class="header-logo">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/img/logo/logo-2.png" alt="logo">
+                                <img src="/assets/img/logo/logo-2.png" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                         <div class="header-logo d-block d-xl-none">
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src="assets/img/logo/logo-2.png" alt="logo">
+                                    <img src="/assets/img/logo/logo-2.png" alt="logo">
                                 </a>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                             <a class="header-contact d-flex align-items-center">
                                 <div class="icon">
                                     <i class="icon-call"></i>
-                                    <!-- <img src="assets/img/icon/phone-1.svg" alt=""> -->
+                                    <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Contáctanos</span>
