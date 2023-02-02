@@ -20,7 +20,7 @@
 
             <div class="col-md-6">
                 <div class="page-banner__media mt-xs-30 mt-sm-40">
-                    <img src="/assets/img/page-banner/page-banner-start.svg" class="img-fluid start" alt="">
+                    <!-- <img src="/assets/img/page-banner/page-banner-start.svg" class="img-fluid start" alt=""> -->
                     <img src="/assets/img/page-banner/page-banner-1.jpg" class="img-fluid" alt="">
                 </div>
             </div>
@@ -35,14 +35,16 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="contact-us__content">
-                    <h6 class="sub-title fw-500 color-primary text-uppercase mb-sm-15 mb-xs-10 mb-20"><img
-                            src="/assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt=""> contact us with
-                        Ease</h6>
-                    <h2 class="title color-d_black mb-sm-15 mb-xs-10 mb-20">Get in Touch</h2>
+                    <h6 class="sub-title fw-500 color-primary text-uppercase mb-sm-15 mb-xs-10 mb-20">
+                        <img src="/assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
+                        Contacta a los profesionales
+                    </h6>
+                    <h2 class="title color-d_black mb-sm-15 mb-xs-10 mb-20">Escríbenos</h2>
 
                     <div class="description font-la">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. ut enim ad minim veniam.</p>
+                        <p>
+                            Te ayudamos a tener la información para la toma de decisiones.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -57,16 +59,16 @@
                                     <i class="fal fa-map-marker-alt"></i>
                                 </div>
 
-                                <h5 class="title color-d_black">London Office</h5>
+                                <h5 class="title color-d_black">Dirección</h5>
                             </div>
 
                             <div class="contact-us__item-body font-la">
-                                4517 Washington Ave. Manchester, Kentucky 39495
+                                San José del Cabo
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-sm-6">
+                    <!-- <div class="col-sm-6">
                         <div class="contact-us__item mb-40">
                             <div
                                 class="contact-us__item-header mb-25 mb-md-20 mb-sm-15 mb-xs-10 d-flex align-items-center">
@@ -81,7 +83,7 @@
                                 3891 Ranchview Dr. Richardson, California 62639
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-sm-6">
                         <div class="contact-us__item mb-40">
@@ -91,13 +93,13 @@
                                     <i class="icon-phone"></i>
                                 </div>
 
-                                <h5 class="title color-d_black">Call Us Toll Free</h5>
+                                <h5 class="title color-d_black">Llámanos</h5>
                             </div>
 
                             <div class="contact-us__item-body font-la">
                                 <ul>
-                                    <li><a href="tell:(406)555-0120">(406) 555-0120</a></li>
-                                    <li><a href="tell:(208)555-0112">(208) 555-0112</a></li>
+                                    <li><a href="tell:6241418210">(624) 141 8210</a></li>
+                                    <li><a href="tell:3334795332">(333) 479 5332</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -111,13 +113,15 @@
                                     <i class="icon-email"></i>
                                 </div>
 
-                                <h5 class="title color-d_black">Email Us</h5>
+                                <h5 class="title color-d_black">Correo</h5>
                             </div>
 
                             <div class="contact-us__item-body font-la">
                                 <ul>
-                                    <li><a href="mailto:consulter@example.com">consulter@example.com </a></li>
-                                    <li><a href="mailto:sara.cruz@example.com">sara.cruz@example.com</a></li>
+                                    <li><a href="mailto:castroc@caleaconsultores.com">castroc@caleaconsultores.com </a>
+                                    </li>
+                                    <li><a href="mailto:laleal@caleaconsultores.com">laleal@caleaconsultores.com</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -137,7 +141,9 @@
 
 <!-- contact-us form end -->
 <section class="contact-form  mb-xs-80 mb-sm-100 mb-md-100 mb-120 overflow-hidden">
-    <div id="contact-map" class="mb-sm-30 mb-xs-25"></div> <!-- contact-map -->
+    <div id="contact-map" class="mb-sm-30 mb-xs-25">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1744.6460206555496!2d-109.71077627723953!3d23.090485485297513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1675369862651!5m2!1ses-419!2smx" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div> <!-- contact-map -->
 
     <div class="container">
         <div class="row">
@@ -145,27 +151,31 @@
                 <div
                     class="contact-form pt-md-30 pt-sm-25 pt-xs-20 pb-md-40 pb-sm-35 pb-xs-30 pt-xl-30 pb-xl-50 pt-45 pr-xl-50 pl-md-40 pl-sm-30 pl-xs-25 pr-md-40 pr-sm-30 pr-xs-25 pl-xl-50 pr-85 pb-60 pl-85">
                     <div class="contact-form__header mb-sm-35 mb-xs-30 mb-40">
-                        <h6 class="sub-title fw-500 color-primary text-uppercase mb-15"><img
-                                src="/assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt=""> Need help?
+                        <h6 class="sub-title fw-500 color-primary text-uppercase mb-15">
+                            <img src="/assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
+                            ¿Necesitas ayuda profesional?
                         </h6>
-                        <h3 class="title color-d_black">Contact Us</h3>
+                        <h3 class="title color-d_black">Escríbenos</h3>
                     </div>
 
-                    <form action="mail.php" method="POST">
+                    <form action="" method="POST">
                         <div class="single-personal-info">
-                            <input type="text" id="name" name="name" placeholder="Your Name">
+                            <input type="text" id="nombre" name="nombre" placeholder="Nombre *">
                         </div>
                         <div class="single-personal-info">
-                            <input type="email" id="email" name="email" placeholder="Your e-mail">
+                            <input type="email" id="email" name="email" placeholder="Correo *">
                         </div>
                         <div class="single-personal-info">
-                            <input type="text" name="subject" placeholder="Subject">
+                            <input type="text" id="tel" name="tel" placeholder="Teléfono *">
                         </div>
                         <div class="single-personal-info">
-                            <textarea name="message" placeholder="Your Massage"></textarea>
+                            <input type="text" name="asunto" placeholder="Asunto *">
+                        </div>
+                        <div class="single-personal-info">
+                            <textarea name="msj" placeholder="Mensaje"></textarea>
                         </div>
 
-                        <button type="submit" class="theme-btn btn-sm">Submit Message <i
+                        <button type="submit" class="theme-btn btn-sm">Enviar <i
                                 class="far fa-chevron-double-right"></i></button>
                     </form>
                 </div>
@@ -174,25 +184,3 @@
     </div>
 </section>
 <!-- contact-us form end -->
-
-<!-- cta start -->
-<section class="cta-banner overflow-hidden">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div
-                    class="cta-banner__content d-flex flex-column flex-lg-row justify-content-between align-items-center pl-xs-20  pr-xs-20 pl-sm-30  pr-sm-30 pl-lg-50 pr-lg-50 pr-85 pl-85 overflow-hidden">
-                    <div class="cta-banner__content-text">
-                        <h3 class="title text-capitalize color-white">Small Business Grow Fast With Our Consulting
-                            Services</h3>
-                    </div>
-                    <div class="cta-banner__content-btn">
-                        <a href="contact.html" class="theme-btn btn-white">Let’s Work Together <i
-                                class="far fa-chevron-double-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- cta start -->

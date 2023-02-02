@@ -615,8 +615,8 @@ if (mapId || contactMapId || servicesMapId) {
 
 	function initMap() {
 		var footerLocation = [
-			['Dhaka', 23.851602, 90.3782046],
-			['Pabna', 23.854842, 90.3782949]
+			['Dhaka', 23.0903012,-109.7101617],
+			['Pabna', 23.0903012,-109.7101617]
 		];
 
 		var mapOptions = { 
@@ -782,7 +782,7 @@ if (mapId || contactMapId || servicesMapId) {
 		}
 
 		// Services Map
-		var servicesLocation = { lat: 23.854322, lng: 90.3782046 }; 
+		var servicesLocation = { lat: 23.0903012, lng: 109.7101617 }; 
 		var servicesMapOptions = { 
 	        zoom: 15,
 	        center: servicesLocation,
