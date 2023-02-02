@@ -6,7 +6,7 @@
                 <div class="col-3">
                     <div class="header-logo">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="/assets/img/logo/logo-2.png" alt="logo">
                             </a>
                         </div>
@@ -67,7 +67,7 @@
                     <div class="d-flex align-items-center justify-content-between border-top">
                         <div class="header-logo d-block d-xl-none">
                             <div class="logo">
-                                <a href="index.html">
+                                <a href="/">
                                     <img src="/assets/img/logo/logo-2.png" alt="logo">
                                 </a>
                             </div>
@@ -116,10 +116,10 @@
                                             <li><a href="404.html">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a href="#">Inicio</a></li>
-                                    <li><a href="#">Nosotros</a></li>
-                                    <li><a href="#">Servicio</a></li>
-                                    <li><a href="#">Contacto</a></li>
+                                    <li><a href="/">Inicio</a></li>
+                                    <li><a href="/#nosotros">Nosotros</a></li>
+                                    <li><a href="/servicios">Servicio</a></li>
+                                    <li><a href="/contacto">Contacto</a></li>
                                     <!-- <li>
                                         <a href="blog.html">Blog</a>
 
@@ -161,10 +161,10 @@
         <div class="navigation">
             <div class="consulter-mobile-nav">
                 <ul>
-                    <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Nosotros</a></li>
-                    <li><a href="#">Servicio</a></li>
-                    <li><a href="#">Contacto</a></li>
+                    <li><a href="/">Inicio</a></li>
+                    <li><a href="/#nosotros">Nosotros</a></li>
+                    <li><a href="/servicios">Servicio</a></li>
+                    <li><a href="/contacto">Contacto</a></li>
                 </ul>
             </div>
 
@@ -192,7 +192,7 @@
                 </div>
 
                 <div class="sidebar-nav__bottom-social">
-                    <h6 class="color-black mb-5">Síguenos  en:</h6>
+                    <h6 class="color-black mb-5">Síguenos en:</h6>
 
                     <ul>
                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
