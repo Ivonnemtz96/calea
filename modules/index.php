@@ -17,9 +17,9 @@
                     </div>
 
                     <div class="theme-btn__wrapper d-flex flex-wrap">
-                        <a href="blog.html" class="theme-btn fw-600 btn-red">Ver Servicios <i
+                        <a href="/servicios" class="theme-btn fw-600 btn-red">Ver Servicios <i
                                 class="far fa-chevron-double-right"></i></a>
-                        <a href="about.html" class="theme-btn fw-600 btn-white-border">Contactar <i
+                        <a href="/contacto" class="theme-btn fw-600 btn-white-border">Contactar <i
                                 class="far fa-chevron-double-right"></i></a>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         </div>
                     </div>
 
-                    <a href="about.html" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
                         Ver servicios <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
                 </div>
@@ -92,7 +92,7 @@
                     </div>
 
                     <div class="expert-team expert-team-one text-center"
-                        style="background-image: url(assets/img/home-2/expert-team-1.png)">
+                        style="background-image: url(assets/img/home-2/expert-team-1.jpg)">
                         <!-- <div class="number color-white mb-10 mb-xs-5 fw-600"><span>100</span>+</div> -->
                         <h6 class="title font-la color-white">Profesionales a cargo</h6>
                     </div>
@@ -201,9 +201,8 @@
         </div>
     </div>
 </section>
-<!-- our-company end -->
 
-<!-- our-provide start -->
+
 <section
     class="similar-work services-work bg-dark_white pb-xs-80 pt-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-135 pb-120 overflow-hidden">
     <div class="container">
@@ -228,7 +227,7 @@
                         </div>
 
                         <h4 class="title color-secondary">
-                            <a href="services.html">
+                            <a href="/servicios">
                                 Contabilidad y cálculo de impuestos
                             </a>
                         </h4>
@@ -236,12 +235,12 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/services/services-1.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                            <p>Consiste en llevar a cabo un registro de las operaciones financieras de una entidad.</p>
                         </div>
 
                         <!-- <a href="services.html" class="theme-btn text-center fw-600 btn-yellow">Discover More <i
@@ -258,7 +257,7 @@
                         </div>
 
                         <h4 class="title color-secondary">
-                            <a href="services.html">
+                            <a href="/servicios">
                                 Planeación y defensa fiscal
                             </a>
                         </h4>
@@ -266,12 +265,13 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/services/services-2.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                            <p>Permite estudiar el entorno de las empresas, para cumplir con la normatividad y
+                                aprovechar.</p>
                         </div>
 
                         <!-- <a href="services.html" class="theme-btn text-center fw-600 btn-yellow">Discover More <i
@@ -288,18 +288,19 @@
                         </div>
 
                         <h4 class="title color-secondary">
-                            <a href="services.html">Consultoría jurídica y legal</a>
+                            <a href="/servicios">Consultoría jurídica y legal</a>
                         </h4>
                     </div>
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/services/services-3.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.</p>
+                            <p>Tenemos como objeto el asesoramiento en materia legal en cualquiera de las ramas del
+                                Derecho. </p>
                         </div>
 
                         <!-- <a href="services.html" class="theme-btn text-center fw-600 btn-yellow">Discover More <i
@@ -312,9 +313,10 @@
         <div class="row">
             <div class="col-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
-                    <a href="services.html" class="theme-btn btn-transparent fw-600">
-                        <i class="far fa-sync-alt"></i>
-                        Más Servicios
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Más servicios
+                        <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
                 </div>
             </div>
@@ -332,7 +334,7 @@
                     <div class="gallery-bar bg-yellow"></div>
 
                     <div class="why-choose__media">
-                        <img src="assets/img/services/why-choose-1.png" alt="" class="img-fluid">
+                        <img src="assets/img/services/why-choose-1.jpg" alt="" class="img-fluid">
                     </div>
 
                     <div class="global-country text-center bg-yellow">

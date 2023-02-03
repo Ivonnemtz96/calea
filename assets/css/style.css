@@ -8853,7 +8853,7 @@ a img.aligncenter {
   color: #454c56;
   padding: 13.5px 31.1px;
   background: transparent;
-  border: 1.5px solid rgba(255, 156, 0, 0.3);
+  border: 1.5px solid rgba(0, 0, 0, 0.3);
 }
 .theme-btn.btn-yellow-transparent:after {
   background: #000;
@@ -17215,7 +17215,7 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   width: 100%;
   height: 100%;
   position: absolute;
-  background: rgba(255, 156, 0, 0.9);
+  background: rgba(9, 9, 9, 0.56);
 }
 .expert-team .number {
   font-size: 48px;
