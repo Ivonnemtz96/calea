@@ -225,7 +225,7 @@ input, textarea, button {
 }
 
 .color-yellow {
-  color: #454c56 !important;
+  color: #fff !important;
 }
 
 .bg-yellow {
@@ -9191,6 +9191,7 @@ header.header-1 .top-header {
   position: fixed !important;
   -webkit-filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.16));
           filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.16));
+  background-color: #000;
 }
 header.header-1 .top-header.top-header-2 {
   padding: 0;
@@ -9264,11 +9265,11 @@ header.header-1 .top-header .header-cta ul li a i {
   margin-right: 10px;
 }
 header.header-1 .top-header .header-cta ul li a:hover:-moz-any-link, header.header-1 .top-header .header-cta ul li a:focus:-moz-any-link {
-  color: #000;
+  color: #7b7b7b;
   cursor: pointer;
 }
 header.header-1 .top-header .header-cta ul li a:hover:any-link, header.header-1 .top-header .header-cta ul li a:focus:any-link {
-  color: #000;
+  color: #7b7b7b;
   cursor: pointer;
 }
 header.header-1 .top-header .header-right-socail {
@@ -9302,7 +9303,7 @@ header.header-1 .top-header .header-right-socail .social-profile ul li a {
   font-weight: 400;
 }
 header.header-1 .top-header .header-right-socail .social-profile ul li a:hover, header.header-1 .top-header .header-right-socail .social-profile ul li a:focus {
-  color: #000;
+  color: #7b7b7b;
 }
 header.header-1 .main-header-wraper {
   left: 0;
@@ -10377,7 +10378,8 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
 .page-banner {
   z-index: 1;
   position: relative;
-  background-color: #0E1E36;
+  background: rgb(152,157,161);
+  background: linear-gradient(90deg, rgba(152,157,161,1) 0%, rgba(116,121,125,1) 19%, rgba(188,189,194,1) 81%, rgba(168,167,163,1) 100%);
 }
 .page-banner:before {
   left: -28px;
@@ -10530,7 +10532,7 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   position: absolute;
   -webkit-transform: rotate(-30.99deg);
           transform: rotate(-30.99deg);
-  background: rgba(64, 105, 255, 0.5);
+  background: rgba(0, 0, 0, 0.5);
 }
 @media (max-width: 767px) {
   .page-banner__media:before {

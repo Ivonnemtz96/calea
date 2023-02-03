@@ -23,8 +23,8 @@
 
                         <div class="social-profile">
                             <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                         <div class="header-logo">
                             <div class="logo">
                                 <a href="/">
-                                    <img src="/assets/img/logo/logo.png" alt="logo">
+                                    <img style="height: 4.3rem;" src="/assets/img/logo/logo.png" alt="logo">
                                 </a>
                             </div>
                         </div>
@@ -51,7 +51,7 @@
                                 <ul>
                                     <li><a href="/">Inicio</a></li>
                                     <li><a href="/#nosotros">Nosotros</a></li>
-                                    <li><a href="/servicios">Servicio</a></li>
+                                    <li><a href="/servicios">Servicios</a></li>
                                     <li><a href="/contacto">Contacto</a></li>
                                 </ul>
                             </div>
@@ -99,7 +99,7 @@
                 <ul>
                     <li><a href="/">Inicio</a></li>
                     <li><a href="/#nosotros">Nosotros</a></li>
-                    <li><a href="/servicios">Servicio</a></li>
+                    <li><a href="/servicios">Servicios</a></li>
                     <li><a href="/contacto">Contacto</a></li>
 
                 </ul>
@@ -107,7 +107,7 @@
 
             <div class="sidebar-nav__bottom mt-20">
                 <div class="sidebar-nav__bottom-contact-infos mb-20">
-                    <h6 class="color-black mb-5">Información de contacto</h6>
+                    <h6 style="color:#fff !important;" class="color-black mb-5">Información de contacto</h6>
 
                     <ul>
                         <!-- <li><a><i class="fal fa-clock"></i> Mon – Fri: 8.00 – 18.00</a></li> -->
@@ -130,11 +130,11 @@
                 </div>
 
                 <div class="sidebar-nav__bottom-social">
-                    <h6 class="color-black mb-5">Síguenos en:</h6>
+                    <h6 style="color:#fff !important;" class="color-black mb-5">Síguenos en:</h6>
 
                     <ul>
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>

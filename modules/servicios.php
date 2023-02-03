@@ -45,7 +45,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-1.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -71,7 +71,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/project-details/project-details-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-2.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -97,7 +97,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/project-details/project-details-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-3.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -123,7 +123,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-4.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -149,7 +149,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-5.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -176,7 +176,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/project-details/project-details-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-6.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -203,7 +203,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-7.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -229,7 +229,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-8.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -256,7 +256,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/project-details/project-details-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-9.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -283,7 +283,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-10.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -309,7 +309,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-11.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -336,7 +336,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/project-details/project-details-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-12.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
@@ -362,7 +362,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/project-details/project-details-1.png" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-13.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">

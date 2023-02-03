@@ -7,7 +7,7 @@
                     <div class="header-logo">
                         <div class="logo">
                             <a href="/">
-                                <img src="/assets/img/logo/logo-2.png" alt="logo">
+                                <img style="height: 4.3rem;" src="/assets/img/logo/logo-2.png" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -68,15 +68,15 @@
                         <div class="header-logo d-block d-xl-none">
                             <div class="logo">
                                 <a href="/">
-                                    <img src="/assets/img/logo/logo-2.png" alt="logo">
+                                    <img style="height: 4.3rem;" src="/assets/img/logo/logo-2.png" alt="logo">
                                 </a>
                             </div>
                         </div>
 
                         <div class="social-profile last_no_bullet d-xl-block d-none">
                             <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
 
@@ -118,7 +118,7 @@
                                     </li> -->
                                     <li><a href="/">Inicio</a></li>
                                     <li><a href="/#nosotros">Nosotros</a></li>
-                                    <li><a href="/servicios">Servicio</a></li>
+                                    <li><a href="/servicios">Servicios</a></li>
                                     <li><a href="/contacto">Contacto</a></li>
                                     <!-- <li>
                                         <a href="blog.html">Blog</a>
@@ -163,7 +163,7 @@
                 <ul>
                     <li><a href="/">Inicio</a></li>
                     <li><a href="/#nosotros">Nosotros</a></li>
-                    <li><a href="/servicios">Servicio</a></li>
+                    <li><a href="/servicios">Servicios</a></li>
                     <li><a href="/contacto">Contacto</a></li>
                 </ul>
             </div>
@@ -195,8 +195,8 @@
                     <h6 class="color-black mb-5">Síguenos en:</h6>
 
                     <ul>
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
