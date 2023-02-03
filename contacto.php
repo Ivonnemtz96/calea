@@ -10,6 +10,7 @@
         include("includes/header2.php");
         include("modules/contacto.php");
         include("includes/footer.php");
+        include("includes/btn-whats.php");
         include("includes/scripts.php");
     ?>
 
