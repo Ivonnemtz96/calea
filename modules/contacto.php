@@ -21,7 +21,7 @@
             <div class="col-md-6">
                 <div class="page-banner__media mt-xs-30 mt-sm-40">
                     <!-- <img src="/assets/img/page-banner/page-banner-start.svg" class="img-fluid start" alt=""> -->
-                    <img src="/assets/img/page-banner/page-banner-1.jpg" class="img-fluid" alt="">
+                    <img src="/assets/img/page-banner/page-banner2.jpg" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -63,7 +63,9 @@
                             </div>
 
                             <div class="contact-us__item-body font-la">
-                                San José del Cabo
+                                C. Libertad #403, cruce con calle Cabo San Lucas, Plaza libertad <br> Col. Ildefonso
+                                Green,
+                                Cabo San Lucas, B. C. S
                             </div>
                         </div>
                     </div>
@@ -98,8 +100,8 @@
 
                             <div class="contact-us__item-body font-la">
                                 <ul>
-                                    <li><a href="tell:6241418210">(624) 141 8210</a></li>
-                                    <li><a href="tell:3334795332">(333) 479 5332</a></li>
+                                    <li><a href="tel:6241418210">(624) 141 8210</a></li>
+                                    <li><a href="tel:3334795332">(333) 479 5332</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -118,10 +120,8 @@
 
                             <div class="contact-us__item-body font-la">
                                 <ul>
-                                    <li><a href="mailto:castroc@caleaconsultores.com">castroc@caleaconsultores.com </a>
-                                    </li>
-                                    <li><a href="mailto:laleal@caleaconsultores.com">laleal@caleaconsultores.com</a>
-                                    </li>
+                                    <li><a href="mailto:castroc@caleaconsultores.com">castroc@caleaconsultores.com </a></li>
+                                    <li><a href="mailto:laleal@caleaconsultores.com">laleal@caleaconsultores.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -142,7 +142,10 @@
 <!-- contact-us form end -->
 <section class="contact-form  mb-xs-80 mb-sm-100 mb-md-100 mb-120 overflow-hidden">
     <div id="contact-map" class="mb-sm-30 mb-xs-25">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1744.6460206555496!2d-109.71077627723953!3d23.090485485297513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1675369862651!5m2!1ses-419!2smx" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1933.1540298296256!2d-109.91792189556683!3d22.885567717888584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4aefcd343e07%3A0x2b44cbc5c4f855e5!2sLibertad%20403%2C%20Ildefonso%20Green%2C%2023450%20Cabo%20San%20Lucas%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1675456748505!5m2!1ses-419!2smx"
+            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div> <!-- contact-map -->
 
     <div class="container">
