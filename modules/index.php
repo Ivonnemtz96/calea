@@ -38,12 +38,12 @@
 
 <!-- about-us start -->
 <section class="about-us pb-xs-80 pt-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden">
-    <div class="container">
+    <div class="container" id="nosotros">
         <div class="row">
             <div class="col-xl-6">
                 <div class="about-us__content  mb-lg-60 mb-md-50 mb-sm-40 mb-xs-30">
-                    <span class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block"><img
-                            src="/assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
+                    <span style="color:#000 !important;" class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
+                        <img src="/assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Sobre nosotros
                     </span>
                     <h2 class="title color-secondary mb-20 mb-sm-15 mb-xs-10">
@@ -143,7 +143,7 @@
 
             <div class="col-lg-6">
                 <div class="our-company__content mt-md-50 mt-sm-40 mt-xs-35">
-                    <span class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block">
+                    <span style="color:#000 !important;" class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block">
                         <img src="assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
                         Más sobre nosotros
                     </span>
@@ -209,7 +209,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="employee-friendly__content mb-65 mb-md-50 mb-sm-40 mb-xs-30 text-center">
-                    <span class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
+                    <span style="color:#000 !important;" class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
                         <img src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Servicios
                     </span>
@@ -347,7 +347,7 @@
             <div class="col-xl-6">
                 <div class="why-choose__content mt-lg-60 mt-md-50 mt-sm-40 mt-xs-35">
                     <div class="why-choose__text mb-40 mb-md-35 mb-sm-30 mb-xs-30">
-                        <span
+                        <span style="color:#000 !important;"
                             class="sub-title d-block fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-md-15 mb-lg-20 mb-25">
                             <img src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                             ¿Por qué elegirnos?
@@ -365,7 +365,7 @@
 
                     <div class="why-choose__item-wrapper d-grid justify-content-between">
                         <div class="why-choose__item">
-                            <div class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
+                            <div style="color:#000 !important;" class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
                                 <i class="icon-consultation"></i>
                             </div>
 
@@ -377,7 +377,7 @@
                         </div>
 
                         <div class="why-choose__item">
-                            <div class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
+                            <div style="color:#000 !important;" class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
                                 <i class="icon-lawyer"></i>
                             </div>
 
@@ -389,7 +389,7 @@
                         </div>
 
                         <div class="why-choose__item">
-                            <div class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
+                            <div style="color:#000 !important;" class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
                                 <i class="icon-financial"></i>
                             </div>
 
@@ -401,7 +401,7 @@
                         </div>
 
                         <div class="why-choose__item">
-                            <div class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
+                            <div style="color:#000 !important;" class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
                                 <i class="icon-management"></i>
                             </div>
 
@@ -489,7 +489,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="pricing__content mb-60 mb-sm-40 mb-xs-30 text-center">
-                    <span
+                    <span style="color:#000 !important;"
                         class="sub-title d-block fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-md-15 mb-lg-20 mb-25">
                         <img src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Nuestro proceso de trabajo
@@ -577,13 +577,13 @@
 <!-- work-process end -->
 
 <!-- testimonial start -->
-<section
+<section hidden
     class="testimonial bg-dark_yellow pb-xs-80 pt-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-sm-9">
                 <div class="employee-friendly__content">
-                    <span class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
+                    <span style="color:#000 !important;" class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
                         <img src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Opinilones
                     </span>
