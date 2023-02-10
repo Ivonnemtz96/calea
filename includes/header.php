@@ -25,7 +25,18 @@
                             </div>
                         </a>
 
-                        <a href="mailto:castroc@caleaconsultores.com" class="header-contact d-none d-md-flex align-items-center">
+                        <a class="header-contact d-none d-md-flex align-items-center">
+                            <div class="icon color-yellow">
+                                <i style="color: #fff; font-size: 2rem;" class="fab fa-whatsapp"></i>
+                            </div>
+                            <div class="text">
+                                <span class="mb-5 d-block fw-normal color-white">Llámanos</span>
+                                <h5 class="fw-500"><a style="color:#fff;" href="tel:+526241328278">6241328278</a></h5>
+                            </div>
+                        </a>
+
+                        <a href="mailto:castroc@caleaconsultores.com"
+                            class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
                                 <i style="color: #fff;" class="icon-email"></i>
                             </div>
@@ -35,7 +46,8 @@
                             </div>
                         </a>
 
-                        <a href="mailto:laleal@caleaconsultores.com" class="header-contact d-none d-md-flex align-items-center">
+                        <a href="mailto:laleal@caleaconsultores.com"
+                            class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
                                 <i style="color: #fff;" class="icon-email"></i>
                             </div>
@@ -45,15 +57,7 @@
                             </div>
                         </a>
 
-                        <!-- <a class="header-contact d-none d-md-flex align-items-center">
-                            <div class="icon color-yellow">
-                                <i class="fal fa-clock"></i>
-                            </div>
-                            <div class="text">
-                                <span class="mb-5 d-block fw-normal color-white">Open Every Day</span>
-                                <h5 class="fw-600 color-white">8am : 12pm</h5>
-                            </div>
-                        </a> -->
+
                     </div>
                 </div>
             </div>
@@ -75,8 +79,12 @@
 
                         <div class="social-profile last_no_bullet d-xl-block d-none">
                             <ul>
-                                <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
+                                <li><a target="_blank"
+                                        href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i
+                                            class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank"
+                                        href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i
+                                            class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
 
@@ -173,8 +181,10 @@
                     <h6 class="color-black mb-5">Información de contacto</h6>
 
                     <ul>
-                    <li><a href="mailto:castroc@caleaconsultores.com"><i class="icon-email"></i>castroc@caleaconsultores.com</a>
-                        <li><a href="mailto:laleal@caleaconsultores.com"><i class="icon-email"></i>laleal@caleaconsultores.com</a>
+                        <li><a href="mailto:castroc@caleaconsultores.com"><i
+                                    class="icon-email"></i>castroc@caleaconsultores.com</a>
+                        <li><a href="mailto:laleal@caleaconsultores.com"><i
+                                    class="icon-email"></i>laleal@caleaconsultores.com</a>
                         </li>
                         <li>
                             <a href="tel:+523334795332" class="header-contact d-flex align-items-center">
@@ -188,6 +198,21 @@
                                 </div>
                             </a>
                         </li>
+
+                        <li>
+                            <a class="header-contact d-flex align-items-center"
+                                href="https://wa.me/+526241328278?text=Hola,%20me%20gustaría%20más%20información">
+                                <div class="icon">
+                                    <i class="fab fa-whatsapp"></i>
+                                </div>
+                                <div class="text">
+                                    <span style="color:#fff;" class="font-la mb-5 d-block fw-500">WhatsApp</span>
+                                    <h5 style="color:#fff;" class="fw-500">
+                                        624 132 8278
+                                    </h5>
+                                </div>
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
@@ -195,8 +220,12 @@
                     <h6 class="color-black mb-5">Síguenos en:</h6>
 
                     <ul>
-                        <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank"
+                                href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i
+                                    class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank"
+                                href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i
+                                    class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>

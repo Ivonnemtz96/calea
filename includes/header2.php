@@ -8,16 +8,16 @@
                         <ul>
                             <!-- <li><a><i class="fal fa-clock"></i> Mon – Fri: 8.00 – 18.00</a></li> -->
                             <li>
-                                <a href="mailto:castroc@caleaconsultores.com">
-                                    <i class="icon-email"></i>
-                                    castroc@caleaconsultores.com
+                                <a style="color: #000;" href="tel:3334795332">
+                                    <i class="icon-phone"></i>
+                                    +52 333 479 5332
                                 </a>
                             </li>
 
                             <li>
-                                <a href="mailto:laleal@caleaconsultores.com">
-                                    <i class="icon-email"></i>
-                                    laleal@caleaconsultores.com
+                                <a style="color: #000;" href="tel:6241328278">
+                                    <i class="icon-phone"></i>
+                                    +52 624 132 8278
                                 </a>
                             </li>
                         </ul>
@@ -26,14 +26,14 @@
 
                 <div class="col-4">
                     <div class="header-right-socail d-flex justify-content-end align-items-center">
-                        <h6 class="font-la color-white fw-600">Síguenos en redes sociales:</h6>
+                        <h6 style="color: #000;" class="font-la fw-600">Síguenos en redes sociales:</h6>
 
                         <div class="social-profile">
                             <ul>
-                                <li><a target="_blank"
+                                <li><a style="color: #000;" target="_blank"
                                         href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i
                                             class="fab fa-facebook-f"></i></a></li>
-                                <li><a target="_blank"
+                                <li><a style="color: #000;" target="_blank"
                                         href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i
                                             class="fab fa-instagram"></i></a></li>
                             </ul>
@@ -123,10 +123,12 @@
                     <ul>
                         <!-- <li><a><i class="fal fa-clock"></i> Mon – Fri: 8.00 – 18.00</a></li> -->
                         <li>
-                            <a href="mailto:castroc@caleaconsultores.com"><i class="icon-email"></i>castroc@caleaconsultores.com</a>
+                            <a href="mailto:castroc@caleaconsultores.com"><i
+                                    class="icon-email"></i>castroc@caleaconsultores.com</a>
                         </li>
                         <li>
-                            <a href="mailto:laleal@caleaconsultores.com"><i class="icon-email"></i>laleal@caleaconsultores.com</a>
+                            <a href="mailto:laleal@caleaconsultores.com"><i
+                                    class="icon-email"></i>laleal@caleaconsultores.com</a>
                         </li>
                         <li>
                             <a class="header-contact d-flex align-items-center">
@@ -135,8 +137,25 @@
                                     <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
                                 </div>
                                 <div class="text">
-                                    <span class="font-la mb-5 d-block fw-500">Llámanos</span>
-                                    <h5 class="fw-500"><a style="color:#fff;" href="tel:+523334795332">3334795332</a></h5>
+                                    <span style="color:#fff;" class="font-la mb-5 d-block fw-500">Llámanos</span>
+                                    <h5 style="color:#fff;" class="fw-500"><a style="color:#fff;"
+                                            href="tel:+523334795332">3334795332</a></h5>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a class="header-contact d-flex align-items-center">
+                                <div class="icon">
+                                    <i class="fab fa-whatsapp"></i>
+                                    <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
+                                </div>
+                                <div class="text">
+                                    <span style="color:#fff;" class="font-la mb-5 d-block fw-500">WhatsApp</span>
+                                    <h5 style="color:#fff;" class="fw-500">
+                                        <a style="color:#fff;"
+                                            href="https://wa.me/+526241328278?text=Hola,%20me%20gustaría%20más%20información">624 132 8278</a>
+                                    </h5>
                                 </div>
                             </a>
                         </li>
