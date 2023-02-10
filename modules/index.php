@@ -4,8 +4,8 @@
         <div class="row align-items-center">
             <div class="col-xl-6">
                 <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40">
-                    <h6 class="sub-title color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Bienvenidos a
-                        <span style="color: #000;">Calea Consultores</span>
+                    <h6 class="color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Bienvenidos a
+                        <strong style="color: #fff;">Calea Consultores</strong>
                     </h6>
                     <h1 class="title color-white fw-bold mb-20 mb-sm-15 mb-xs-10">Expertos en el área</h1>
 
@@ -17,7 +17,7 @@
                     </div>
 
                     <div class="theme-btn__wrapper d-flex flex-wrap">
-                        <a href="/servicios" class="theme-btn fw-600 btn-red">Ver Servicios <i
+                        <a style="border:1px solid #fff;" href="/servicios" class="theme-btn fw-600 btn-red">Ver Servicios <i
                                 class="far fa-chevron-double-right"></i></a>
                         <a href="/contacto" class="theme-btn fw-600 btn-white-border">Contactar <i
                                 class="far fa-chevron-double-right"></i></a>
@@ -57,7 +57,7 @@
                             expectativas de nuestros clientes brindándoles servicios profesionales de manera
                             individualizada, adecuada a sus necesidades para ofrecerles información asertiva y oportuna
                             que disminuya los riesgos orientando siempre hacia una correcta toma de decisiones para el
-                            cumplimento de las metas logrando extraordinarios resultados y/ o negocios.
+                            cumplimiento de las metas logrando extraordinarios resultados y/ o negocios.
 
                         </p>
                     </div>

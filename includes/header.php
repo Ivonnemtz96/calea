@@ -17,7 +17,7 @@
                     <div class="header-right-socail d-flex justify-content-end align-items-center">
                         <a class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
-                                <i class="icon-phone"></i>
+                                <i style="color: #fff;" class="icon-phone"></i>
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Llámanos</span>
@@ -27,7 +27,7 @@
 
                         <a href="mailto:castroc@caleaconsultores.com" class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
-                                <i class="icon-email"></i>
+                                <i style="color: #fff;" class="icon-email"></i>
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Correo</span>
@@ -37,7 +37,7 @@
 
                         <a href="mailto:laleal@caleaconsultores.com" class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
-                                <i class="icon-email"></i>
+                                <i style="color: #fff;" class="icon-email"></i>
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Correo</span>

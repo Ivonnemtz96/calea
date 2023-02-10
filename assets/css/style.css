@@ -11254,9 +11254,8 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
 
 .banner-home {
   z-index: 1;
-  /* background-color: #04213F; */
-  background: rgb(152,157,161);
-  background: linear-gradient(90deg, rgba(152,157,161,1) 0%, rgba(116,121,125,1) 19%, rgba(188,189,194,1) 81%, rgba(168,167,163,1) 100%);
+  background-color: #000;
+
 }
 .banner-home:before {
   left: -28px;
