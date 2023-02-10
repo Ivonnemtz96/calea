@@ -100,8 +100,8 @@
 
                             <div class="contact-us__item-body font-la">
                                 <ul>
-                                    <li><a href="tel:6241418210">(624) 141 8210</a></li>
-                                    <li><a href="tel:3334795332">(333) 479 5332</a></li>
+                                    <li>WhatsApp: <a href="https://wa.me/+526241328278?text=Hola,%20me%20gustaría%20más%20información">(624) 141 8210</a></li>
+                                    <li>Llamadas:  <a href="tel:3334795332">(333) 479 5332</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -57,7 +57,7 @@
                             expectativas de nuestros clientes brindándoles servicios profesionales de manera
                             individualizada, adecuada a sus necesidades para ofrecerles información asertiva y oportuna
                             que disminuya los riesgos orientando siempre hacia una correcta toma de decisiones para el
-                            cumplimento de las metas logrando extraordinarios resultados.y/ o negocios.
+                            cumplimento de las metas logrando extraordinarios resultados y/ o negocios.
 
                         </p>
                     </div>
@@ -164,7 +164,7 @@
                         <p>
                             Ser una consultora líder de alto prestigio reconocida por su honestidad, responsabilidad,
                             formalidad y profesionalismo, caracterizada por trabajar siempre de manera vanguardista con
-                            los más altos estándares de calidad total en materia contable fiscal y legal. logrando que
+                            los más altos estándares de calidad total en materia contable fiscal y legal, logrando que
                             tanto colaboradores como Clientes se sientan orgullosos y satisfechos de pertenecer a
                             nuestra firma.
                         </p>
@@ -507,7 +507,7 @@
                     </div>
 
                     <div class="text">
-                        <h6 class="title color-secondary mb-15 mb-sm-10 mb-xs-5">Investiación del problema</h6>
+                        <h6 class="title color-secondary mb-15 mb-sm-10 mb-xs-5">Investigación del problema</h6>
 
                         <!-- <div class="description font-la">
                             <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut</p>

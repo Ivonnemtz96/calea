@@ -13,6 +13,13 @@
                                     castroc@caleaconsultores.com
                                 </a>
                             </li>
+
+                            <li>
+                                <a href="mailto:laleal@caleaconsultores.com">
+                                    <i class="icon-email"></i>
+                                    laleal@caleaconsultores.com
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -23,8 +30,12 @@
 
                         <div class="social-profile">
                             <ul>
-                                <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
+                                <li><a target="_blank"
+                                        href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i
+                                            class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank"
+                                        href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i
+                                            class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -61,14 +72,14 @@
 
                             <div class="horizontal-bar d-none d-md-block"></div>
 
-                            <a href="tel:+526241418210" class="header-contact d-none d-md-flex align-items-center">
+                            <a href="tel:+523334795332" class="header-contact d-none d-md-flex align-items-center">
                                 <div class="icon color-primary">
                                     <i class="icon-call"></i>
                                     <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Márcanos</span>
-                                    <h5 class="fw-500">624 141 8210</h5>
+                                    <h5 class="fw-500">333 479 5332</h5>
                                 </div>
                             </a>
 
@@ -111,8 +122,11 @@
 
                     <ul>
                         <!-- <li><a><i class="fal fa-clock"></i> Mon – Fri: 8.00 – 18.00</a></li> -->
-                        <li><a href="mailto:castroc@caleaconsultores.com"><i
-                                    class="icon-email"></i>castroc@caleaconsultores.com</a>
+                        <li>
+                            <a href="mailto:castroc@caleaconsultores.com"><i class="icon-email"></i>castroc@caleaconsultores.com</a>
+                        </li>
+                        <li>
+                            <a href="mailto:laleal@caleaconsultores.com"><i class="icon-email"></i>laleal@caleaconsultores.com</a>
                         </li>
                         <li>
                             <a class="header-contact d-flex align-items-center">
@@ -122,7 +136,7 @@
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Llámanos</span>
-                                    <h5 class="fw-500">624 141 8210</h5>
+                                    <h5 class="fw-500"><a style="color:#fff;" href="tel:+523334795332">3334795332</a></h5>
                                 </div>
                             </a>
                         </li>
@@ -133,8 +147,12 @@
                     <h6 style="color:#fff !important;" class="color-black mb-5">Síguenos en:</h6>
 
                     <ul>
-                        <li><a target="_blank" href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank"
+                                href="https://www.facebook.com/people/Calea-Calea/100089941421415/?mibextid=LQQJ4d"><i
+                                    class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank"
+                                href="https://www.instagram.com/caleaconsultores/?igshid=YmMyMTA2M2Y%3D"><i
+                                    class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>

@@ -21,7 +21,7 @@
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white">Llámanos</span>
-                                <h5 class="fw-600 color-white">624 141 8210</h5>
+                                <h5 class="fw-500"><a style="color:#fff;" href="tel:+523334795332">3334795332</a></h5>
                             </div>
                         </a>
 
@@ -35,13 +35,13 @@
                             </div>
                         </a>
 
-                        <a class="header-contact d-none d-md-flex align-items-center">
+                        <a href="mailto:laleal@caleaconsultores.com" class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
-                                <i class="fal fa-map-marker-alt"></i>
+                                <i class="icon-email"></i>
                             </div>
                             <div class="text">
-                                <span class="mb-5 d-block fw-normal color-white">Dirección</span>
-                                <h5 class="fw-600 color-white">San José del Cabo</h5>
+                                <span class="mb-5 d-block fw-normal color-white">Correo</span>
+                                <h5 class="fw-600 color-white">laleal@caleaconsultores.com</h5>
                             </div>
                         </a>
 
@@ -173,18 +173,18 @@
                     <h6 class="color-black mb-5">Información de contacto</h6>
 
                     <ul>
-                        <li><a><i class="fal fa-clock"></i> Mon – Fri: 8.00 – 18.00</a></li>
-                        <li><a href="mailto:info@caleaconsultores.com"><i class="icon-email"></i>info@caleaconsultores.com</a>
+                    <li><a href="mailto:castroc@caleaconsultores.com"><i class="icon-email"></i>castroc@caleaconsultores.com</a>
+                        <li><a href="mailto:laleal@caleaconsultores.com"><i class="icon-email"></i>laleal@caleaconsultores.com</a>
                         </li>
                         <li>
-                            <a class="header-contact d-flex align-items-center">
+                            <a href="tel:+523334795332" class="header-contact d-flex align-items-center">
                                 <div class="icon">
                                     <i class="icon-call"></i>
                                     <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Contáctanos</span>
-                                    <h5 class="fw-500">+123 556 8824</h5>
+                                    <h5 class="fw-500">+52 333 479 5332</h5>
                                 </div>
                             </a>
                         </li>

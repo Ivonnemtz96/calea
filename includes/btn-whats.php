@@ -996,7 +996,7 @@
         <div class="wa__popup_content_list">
             <div class="wa__popup_content_item ">
                 <a target="_blank"
-                    href="https://web.whatsapp.com/send?phone=+526241418210&amp;text=Me gustaría más información"
+                    href="https://wa.me/+526241328278?text=Hola,%20me%20gustaría%20más%20información"
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
