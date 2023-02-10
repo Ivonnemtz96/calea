@@ -19078,3 +19078,9 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   padding: 21px 200px 21px 20px;
   border: none !important;
 }
+
+
+.mfp-close-btn-in .mfp-close{
+  color: #000;
+  text-shadow: 1px 1px #fff;
+}

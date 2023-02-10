@@ -15,7 +15,16 @@
 <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNzB36AcEMpFG1kWuNC5dfLvdX83OUr5M&callback=initMap"></script>
 
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/jquery.magnific-popup.min.js"></script>
 
+
+    <script>
+        $('.open-popup-link').magnificPopup({
+  type: 'inline',
+  midClick: true,
+  mainClass: 'mfp-fade'
+});
+    </script>
 <script>
 (function($) {
     var wa_time_out, wa_time_in;
@@ -92,3 +101,4 @@
     });
 })(jQuery);
 </script>
+
