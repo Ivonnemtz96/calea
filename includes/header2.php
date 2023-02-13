@@ -15,9 +15,9 @@
                             </li>
 
                             <li>
-                                <a style="color: #000;" href="tel:6241328278">
-                                    <i class="icon-phone"></i>
-                                    +52 624 132 8278
+                                <a style="color: #000;" href="https://wa.me/+526241418210?text=Hola,%20me%20gustaría%20más%20información">
+                                    <i class="fab fa-whatsapp"></i>
+                                    +52 624 141 8210
                                 </a>
                             </li>
                         </ul>
@@ -154,7 +154,7 @@
                                     <span style="color:#fff;" class="font-la mb-5 d-block fw-500">WhatsApp</span>
                                     <h5 style="color:#fff;" class="fw-500">
                                         <a style="color:#fff;"
-                                            href="https://wa.me/+526241328278?text=Hola,%20me%20gustaría%20más%20información">624 132 8278</a>
+                                            href="https://wa.me/+526241418210?text=Hola,%20me%20gustaría%20más%20información">624 141 8210</a>
                                     </h5>
                                 </div>
                             </a>

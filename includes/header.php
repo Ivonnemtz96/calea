@@ -15,28 +15,28 @@
 
                 <div class="col-9">
                     <div class="header-right-socail d-flex justify-content-end align-items-center">
-                        <a class="header-contact d-none d-md-flex align-items-center">
+                        <a target="_blank" class="header-contact d-none d-md-flex align-items-center" href="tel:+523334795332">
                             <div class="icon color-yellow">
                                 <i style="color: #fff;" class="icon-phone"></i>
                             </div>
                             <div class="text">
-                                <span class="mb-5 d-block fw-normal color-white">Llámanos</span>
-                                <h5 class="fw-500"><a style="color:#fff;" href="tel:+523334795332">3334795332</a></h5>
+                                <span class="mb-5 d-block fw-normal color-white" style="color:#fff !important;">Llámanos</span>
+                                <h5 class="fw-500" style="color:#fff !important;">3334795332</h5>
                             </div>
                         </a>
 
-                        <a class="header-contact d-none d-md-flex align-items-center">
+                        <a target="_blank" class="header-contact d-none d-md-flex align-items-center" href="https://wa.me/+526241418210?text=Hola,%20me%20gustaría%20más%20información">
                             <div class="icon color-yellow">
                                 <i style="color: #fff; font-size: 2rem;" class="fab fa-whatsapp"></i>
                             </div>
                             <div class="text">
-                                <span class="mb-5 d-block fw-normal color-white">Llámanos</span>
-                                <h5 class="fw-500"><a style="color:#fff;" href="tel:+526241328278">6241328278</a></h5>
+                                <span class="mb-5 d-block fw-normal color-white" style="color:#fff !important;">WhatsApp</span>
+                                <h5 class="fw-500" style="color:#fff !important;">6241418210</h5>
                             </div>
                         </a>
 
                         <a href="mailto:castroc@caleaconsultores.com"
-                            class="header-contact d-none d-md-flex align-items-center">
+                            target="_blank" class="header-contact d-none d-md-flex align-items-center">
                             <div class="icon color-yellow">
                                 <i style="color: #fff;" class="icon-email"></i>
                             </div>
@@ -194,21 +194,21 @@
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Contáctanos</span>
-                                    <h5 class="fw-500">+52 333 479 5332</h5>
+                                    <h5 class="fw-500" style="color:#fff !important;">+52 333 479 5332</h5>
                                 </div>
                             </a>
                         </li>
 
                         <li>
                             <a class="header-contact d-flex align-items-center"
-                                href="https://wa.me/+526241328278?text=Hola,%20me%20gustaría%20más%20información">
+                                href="https://wa.me/+526241418210?text=Hola,%20me%20gustaría%20más%20información">
                                 <div class="icon">
                                     <i class="fab fa-whatsapp"></i>
                                 </div>
-                                <div class="text">
+                                <div class="text" style="color:#fff;">
                                     <span style="color:#fff;" class="font-la mb-5 d-block fw-500">WhatsApp</span>
-                                    <h5 style="color:#fff;" class="fw-500">
-                                        624 132 8278
+                                    <h5  class="fw-500" style="color:#fff !important;" >
+                                    624 141 8210
                                     </h5>
                                 </div>
                             </a>
