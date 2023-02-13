@@ -39,7 +39,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-groth"></i>
+                            <img style="width: 40px;" src="/assets/img/1.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Servicios contables para médicos</a></h4>
@@ -68,7 +68,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-groth"></i>
+                            <img style="width: 40px;" src="/assets/img/2.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Contabilidad y cálculo de impuestos</a></h4>
@@ -96,7 +96,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-planning"></i>
+                            <img style="width: 40px;" src="/assets/img/3.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Planeación y defensa fiscal</a></h4>
@@ -121,12 +121,12 @@
                     </div>
                 </div>
             </div>
-<!-- Primeros 3 -->
+            <!-- Primeros 3 -->
             <div class="col-lg-4 col-md-6">
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-outline"></i>
+                            <img style="width: 40px;" src="/assets/img/4.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Consultoría jurídica y legal</a></h4>
@@ -156,7 +156,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-groth"></i>
+                        <img style="width: 40px;" src="/assets/img/5.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Contratos a trabajadores</a></h4>
@@ -170,7 +170,8 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                            Gestionamos mediante nuestro departamento legal los contratos necesarios para los colaboradores de las empresas.
+                                Gestionamos mediante nuestro departamento legal los contratos necesarios para los
+                                colaboradores de las empresas.
                             </p>
                         </div>
 
@@ -185,7 +186,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-outline"></i>
+                        <img style="width: 40px;" src="/assets/img/6.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Elaboración,timbrado de CFDI´s y pago de
@@ -200,7 +201,7 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                            <br>
+                                <br>
                                 Cálculo análisis y timbrado de los Cfdi´s de nómina. <br> <br>
                             </p>
                         </div>
@@ -247,7 +248,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-planning"></i>
+                        <img style="width: 40px;" src="/assets/img/7.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Factoraje financiero</a></h4>
@@ -278,7 +279,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-outline"></i>
+                        <img style="width: 40px;" src="/assets/img/8.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Software empresarial</a></h4>
@@ -340,7 +341,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-planning"></i>
+                        <img style="width: 40px;" src="/assets/img/9.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Gestión de trámites municipales</a></h4>
@@ -371,7 +372,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-outline"></i>
+                        <img style="width: 40px;" src="/assets/img/10.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Gestión y renovación de permisos y
@@ -402,7 +403,7 @@
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
                         <div class="icon color-white text-center">
-                            <i class="icon-outline"></i>
+                        <img style="width: 40px;" src="/assets/img/11.png" alt="">
                         </div>
 
                         <h4 class="title color-d_black"><a href="/contacto">Servicios tercerizados</a></h4>
@@ -508,7 +509,7 @@
 <div id="cfdi" class="container white-popup mfp-hide" style="background-color: #fff;">
     <div class="container" style="padding: 30px;">
         <div class="row">
-            <h3>Elaboración,timbrado de CFDI´s y pago de nóminas</h3>
+            <h3>Elaboración, timbrado de CFDI´s y pago de nóminas</h3>
             <div class="col-md-12 mt-5">
                 <p>
                 <ul>
@@ -674,7 +675,9 @@
     <div class="container" style="padding: 30px;">
         <div class="row">
             <p>
-            Apoyamos a las empresas mediante nuestro departamento legal llevar a cabo la redacción de los contratos necesarios para la Contratación de personal; Redacción e implementación de reglamentos internos del trabajo.
+                Apoyamos a las empresas mediante nuestro departamento legal llevar a cabo la redacción de los contratos
+                necesarios para la Contratación de personal; Redacción e implementación de reglamentos internos del
+                trabajo.
             </p>
         </div>
         <div class="row">
