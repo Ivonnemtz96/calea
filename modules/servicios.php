@@ -13,7 +13,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="/">Inicio</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Servicios</li>
+                        <li style="color: #fff;" class="breadcrumb-item active" aria-current="page">Servicios</li>
                     </ol>
                 </nav>
             </div>
@@ -47,7 +47,7 @@
 
                     <div class="bottom">
                         <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-1.jpg" class="img-fluid" alt="">
+                            <img src="/assets/img/services/services-14.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div
@@ -78,7 +78,6 @@
                         <div class="media overflow-hidden">
                             <img src="/assets/img/services/services-1.jpg" class="img-fluid" alt="">
                         </div>
-
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
@@ -86,7 +85,6 @@
                                 Electrónica y Conciliación Bancaria.
                             </p>
                         </div>
-
                         <a href="#impuestos" class="theme-btn text-center fw-600 open-popup-link">
                             Ver más<i class="fas fa-long-arrow-alt-right"></i>
                         </a>
@@ -113,16 +111,17 @@
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
                                 Permite estudiar el entorno de las empresas, para cumplir con la normatividad y
-                                aprovechar.
+                                aprovechar. <br><br>
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#impuestos" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
-
+<!-- Primeros 3 -->
             <div class="col-lg-4 col-md-6">
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
                     <div class="top d-flex align-items-center">
@@ -142,12 +141,13 @@
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
                                 Tenemos como objeto el asesoramiento en materia legal en cualquiera de las ramas del
-                                Derecho.
+                                Derecho. <br><br>
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#impuestos" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -170,46 +170,16 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Reclutar y seleccionar el personal requerido por las organizaciones de acuerdo a un
-                                perfil específico deseado.
+                            Gestionamos mediante nuestro departamento legal los contratos necesarios para los colaboradores de las empresas.
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#contratos" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
-                    <div class="top d-flex align-items-center">
-                        <div class="icon color-white text-center">
-                            <i class="icon-planning"></i>
-                        </div>
-
-                        <h4 class="title color-d_black"><a href="/contacto">Elaboración de nómina</a></h4>
-                    </div>
-
-                    <div class="bottom">
-                        <div class="media overflow-hidden">
-                            <img src="/assets/img/services/services-5.jpg" class="img-fluid" alt="">
-                        </div>
-
-                        <div
-                            class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
-                            <p>
-                                Nos aseguramos de realizar el proceso mediante el cual calculamos el pago de salario que
-                                se debe hacer a cada uno de los empleados,
-                            </p>
-                        </div>
-
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
 
             <div class="col-lg-4 col-md-6">
                 <div class="similar-work__item mb-30 d-flex justify-content-between flex-column">
@@ -218,7 +188,8 @@
                             <i class="icon-outline"></i>
                         </div>
 
-                        <h4 class="title color-d_black"><a href="/contacto">Timbrado y pago nóminas</a></h4>
+                        <h4 class="title color-d_black"><a href="/contacto">Elaboración,timbrado de CFDI´s y pago de
+                                nóminas</a></h4>
                     </div>
 
                     <div class="bottom">
@@ -229,12 +200,14 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Representa una opción para que puedas enfocarte en tus objetivos como empresa. <br> <br>
+                            <br>
+                                Cálculo análisis y timbrado de los Cfdi´s de nómina. <br> <br>
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#cfdi" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -258,13 +231,14 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Evalúa las finanzas de una empresa, su perfil de riesgo y sus necesidades y para
-                                elaborar estrategias. <br><br> <br>
+                                Evaluamos las finanzas de las empresas, su perfil de riesgo y sus necesidades y para
+                                elaborar estrategias específicas con las cuales puedan crecer su patrimonio.
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#asesoria" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -287,8 +261,9 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Consiste en una fuente de financiación a corto plazo que permite a las empresas
-                                salvaguardar su actividad y crecer, una vez que aseguran su liquidez y flujo de efectivo
+                                Brindamos una fuente de financiaciamiento a corto plazo la cual permite a las empresas
+                                salvaguardar su actividad y crecer, una vez que aseguran su liquidez y flujo de
+                                efectivo.
                             </p>
                         </div>
 
@@ -322,8 +297,9 @@
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#software" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -347,13 +323,15 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Se encarga de planificar, organizar y controlar los recursos financieros de la empresa.
+                                Brindamos una respuesta rápida y oportuna a través de un análisis financiero ágil y
+                                eficiente.
                                 <br><br> <br>
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#administracion" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -365,7 +343,7 @@
                             <i class="icon-planning"></i>
                         </div>
 
-                        <h4 class="title color-d_black"><a href="/contacto">Trámites municipales</a></h4>
+                        <h4 class="title color-d_black"><a href="/contacto">Gestión de trámites municipales</a></h4>
                     </div>
 
                     <div class="bottom">
@@ -376,14 +354,14 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Por lo general incluyen los permisos de apertura o licencias de funcionamiento, así como
-                                dictámenes de protección civil, medio ambiente, entre otros, que varían dependiendo del
-                                municipio.
+                                Te ayudamos a gestionar la renovación de tus permisos y licencias necesarias para el
+                                buen funcionamiento y operatividad de tu empresa o negocios.
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#tramites" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -413,8 +391,9 @@
                             </p>
                         </div>
 
-                        <a href="/contacto" class="theme-btn text-center fw-600">Contactar<i
-                                class="fas fa-long-arrow-alt-right"></i></a>
+                        <a href="#tramites" class="theme-btn text-center fw-600 open-popup-link">
+                            Ver más<i class="fas fa-long-arrow-alt-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -454,6 +433,7 @@
 
 <!-- POP-UP DE SERVICIOS -->
 
+<!-- popup 1 -->
 <div id="conta-info" class="container white-popup mfp-hide" style="background-color: #fff;">
     <div class="container" style="padding: 30px;">
         <div class="row">
@@ -486,8 +466,7 @@
         </div>
     </div>
 </div>
-
-
+<!-- popup 2 -->
 <div id="impuestos" class="container white-popup mfp-hide" style="background-color: #fff;">
     <div class="container" style="padding: 30px;">
         <div class="row">
@@ -525,28 +504,178 @@
     </div>
 </div>
 
-<div id="planeacion" class="container white-popup mfp-hide" style="background-color: #fff;">
+<!-- popup 3 -->
+<div id="cfdi" class="container white-popup mfp-hide" style="background-color: #fff;">
     <div class="container" style="padding: 30px;">
         <div class="row">
-            <h3>Contabilidad y cálculo de impuestos</h3>
+            <h3>Elaboración,timbrado de CFDI´s y pago de nóminas</h3>
             <div class="col-md-12 mt-5">
-                <h6>Una de las áreas más complicadas en la contabilidad es el pago oportuno de impuestos la ley cambia
-                    día a día por lo que se requiere de constante capacitación.</h6>
                 <p>
-                    Las obligaciones fiscales varían dependiendo de la actividad de cada contribuyente y las principales
-                    son:
                 <ul>
                     <li>
-                        * Declaraciones Informativas de Operaciones con Terceros (DIOT).
+                        * Cálculo de IMSS, INFONAVIT, RCV retenciones, aguinaldos, PTU, liquidaciones y finiquitos.
                     </li>
-                    <li>* Declaración Mensual, Anual de Personas Físicas y Morales.</li>
-                    <li>* Declaraciones mensuales y bimestrales de ISR, IVA, IEPS.</li>
-                    <li>* Cuotas mensuales y bimestrales del IMSS, INFONAVIT, RCV.</li>
-                    <li>* Declaración Anual de la Prima de Riesgo ante el IMSS
-                        Impuesto Sobre Nómina.</li>
+                    <li>* Altas, bajas o modificaciones ante el IMSS, IDSE y SUA.</li>
+                    <li>* Timbrado de Recibos de Nómina.</li>
+                    <li>* Retenciones (Infonavit y FONACOT, SUA) y provisionales: Aguinaldo, Prima Vacacional, Bonos,
+                        Vacaciones.</li>
+                    <li>* Cálculo del Impuesto Sobre Nómina (ISN).</li>
                 </ul>
                 </p>
             </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Contactar
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popup 4 -->
+<div id="administracion" class="container white-popup mfp-hide" style="background-color: #fff;">
+    <div class="container" style="padding: 30px;">
+        <div class="row">
+            <h3>Nuestro principal objetivo es brindar una respuesta rápida y oportuna a través de un análisis de crédito
+                ágil y eficiente.</h3>
+            <div class="col-md-12 mt-5">
+                <p>
+                <ul>
+                    <li>
+                        * Asesoría y consultoría en administración con bancos.
+                    </li>
+                    <li>* Banca Electrónica.</li>
+                    <li>* Educación Financiera.</li>
+                    <li>*rédito Simple o empresarial buscando cubrir sus necesidades de capital de trabajo a corto plazo
+                        para tu operación como compra de inventario, pago a proveedores, gastos recurrentes y/o
+                        extraordinarios.</li>
+                </ul>
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Contactar
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popup 5 -->
+<div id="tramites" class="container white-popup mfp-hide" style="background-color: #fff;">
+    <div class="container" style="padding: 30px;">
+        <div class="row">
+            <p>Nuestro servicio va dirigido a Empresas y emprendedores que requieren para su instalación permiso,
+                asesoría técnica y vinculación con las autoridades competentes para la venta y/o prestación de su
+                servicios.</p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Contactar
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popup 6 -->
+<div id="gestion" class="container white-popup mfp-hide" style="background-color: #fff;">
+    <div class="container" style="padding: 30px;">
+        <div class="row">
+            <p>
+                Nuestro servicio va dirigido a empresas y emprendedores que requieren para empezar o seguir su buen
+                funcionamiento y desarollo de sus actividades económicas algún permiso municipal o renovación de
+                licencias ya otorgadas.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Contactar
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popup 7 -->
+<div id="asesoria" class="container white-popup mfp-hide" style="background-color: #fff;">
+    <div class="container" style="padding: 30px;">
+        <div class="row">
+            <p>
+                Ayudamos a administrar las operaciones financieras de nuestros clientes, ayudándoles a conseguir sus
+                objetivos, ya sea a través de eliminar gastos o invirtiendo estratégicamente el dinero existente,
+                gestionando sus ahorros y haciendo crecer su capital.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Contactar
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popup 8 -->
+<div id="software" class="container white-popup mfp-hide" style="background-color: #fff;">
+    <div class="container" style="padding: 30px;">
+        <div class="row">
+            <p>
+                Brindamos Apoyo con sofware y programas informáticos específicos para satisfacer las necesidades de las
+                empresas. Información al dar click Ofrecemos la adaptación de software o programas informáticos para
+                llevar a cabo desde los procesos administrativos hasta la atención al cliente encaminadas a lograr la
+                eficiencia máxima en el control de las actividades y procesos que realicen las empresas del ramo que sea
+                y de cualquier magnitud.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
+
+                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                        Contactar
+                        <i class="fas fa-long-arrow-alt-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- popup 9 -->
+<div id="contratos" class="container white-popup mfp-hide" style="background-color: #fff;">
+    <div class="container" style="padding: 30px;">
+        <div class="row">
+            <p>
+            Apoyamos a las empresas mediante nuestro departamento legal llevar a cabo la redacción de los contratos necesarios para la Contratación de personal; Redacción e implementación de reglamentos internos del trabajo.
+            </p>
         </div>
         <div class="row">
             <div class="col-md-12">
