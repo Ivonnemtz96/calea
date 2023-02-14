@@ -53,8 +53,8 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Consiste en llevar a cabo un registro de las operaciones financieras de una entidad.
-                                <br><br>
+                            Llevamos la Contabilidad de sus operaciones, cálculo y determinación de impuestos al igual presentación de declaraciones mensuales e informativas.
+                                <br>
                             </p>
                         </div>
                         <a href="#conta-info" class="theme-btn text-center fw-600 open-popup-link">
