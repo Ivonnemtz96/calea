@@ -17,8 +17,8 @@
                     </div>
 
                     <div class="theme-btn__wrapper d-flex flex-wrap">
-                        <a style="border:1px solid #fff;" href="/servicios" class="theme-btn fw-600 btn-red">Ver Servicios <i
-                                class="far fa-chevron-double-right"></i></a>
+                        <a style="border:1px solid #fff;" href="/servicios" class="theme-btn fw-600 btn-red">Ver
+                            Servicios <i class="far fa-chevron-double-right"></i></a>
                         <a href="/contacto" class="theme-btn fw-600 btn-white-border">Contactar <i
                                 class="far fa-chevron-double-right"></i></a>
                     </div>
@@ -42,7 +42,8 @@
         <div class="row">
             <div class="col-xl-6">
                 <div class="about-us__content  mb-lg-60 mb-md-50 mb-sm-40 mb-xs-30">
-                    <span style="color:#000 !important;" class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
+                    <span style="color:#000 !important;"
+                        class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
                         <img src="/assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Sobre nosotros
                     </span>
@@ -143,7 +144,8 @@
 
             <div class="col-lg-6">
                 <div class="our-company__content mt-md-50 mt-sm-40 mt-xs-35">
-                    <span style="color:#000 !important;" class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block">
+                    <span style="color:#000 !important;"
+                        class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block">
                         <img src="assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
                         Más sobre nosotros
                     </span>
@@ -209,7 +211,8 @@
         <div class="row">
             <div class="col-12">
                 <div class="employee-friendly__content mb-65 mb-md-50 mb-sm-40 mb-xs-30 text-center">
-                    <span style="color:#000 !important;" class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
+                    <span style="color:#000 !important;"
+                        class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
                         <img src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Servicios
                     </span>
@@ -240,7 +243,10 @@
 
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
-                            <p>Consiste en llevar a cabo un registro de las operaciones financieras de una entidad.</p>
+                            <p>
+                                Contabilidad Registro de tus operaciones Ingresos, Egresos y Gastos, Contabilidad
+                                Electrónica y Conciliación Bancaria.
+                            </p>
                         </div>
 
                         <!-- <a href="services.html" class="theme-btn text-center fw-600 btn-yellow">Discover More <i
@@ -270,8 +276,8 @@
 
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
-                            <p>Permite estudiar el entorno de las empresas, para cumplir con la normatividad y
-                                aprovechar.</p>
+                            <p> Permite estudiar el entorno de las empresas, para cumplir con la normatividad y
+                                aprovechar. <br><br></p>
                         </div>
 
                         <!-- <a href="services.html" class="theme-btn text-center fw-600 btn-yellow">Discover More <i
@@ -300,7 +306,7 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>Tenemos como objeto el asesoramiento en materia legal en cualquiera de las ramas del
-                                Derecho. </p>
+                                Derecho. <br><br></p>
                         </div>
 
                         <!-- <a href="services.html" class="theme-btn text-center fw-600 btn-yellow">Discover More <i
@@ -583,7 +589,8 @@
         <div class="row align-items-center">
             <div class="col-sm-9">
                 <div class="employee-friendly__content">
-                    <span style="color:#000 !important;" class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
+                    <span style="color:#000 !important;"
+                        class="sub-title fw-500 color-yellow text-uppercase mb-sm-10 mb-xs-5 mb-15 d-block">
                         <img src="assets/img/team-details/badge-line-yellow.svg" class="img-fluid mr-10" alt="">
                         Opinilones
                     </span>

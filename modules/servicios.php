@@ -417,8 +417,7 @@
                         <div
                             class="text pt-30 pr-30 pb-30 pl-30 pt-sm-20 pt-xs-15 pr-sm-20 pr-xs-15 pb-sm-20 pb-xs-15 pl-sm-20 pl-xs-15 font-la">
                             <p>
-                                Se trata de realizar una externalización de los servicios logísticos con el fin de
-                                mejorar la productividad y el servicio de distribución de las mercancías.
+                            Mejorando la productividad y el servicio hacemos sinergia apoyándonos con la externalización de las actividades a empresas afiliadas con el fin de optimizar los resultados.
                             </p>
                         </div>
 

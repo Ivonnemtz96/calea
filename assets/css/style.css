@@ -17214,7 +17214,7 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   width: 100%;
   height: 100%;
   position: absolute;
-  background: rgba(255, 156, 0, 0.9);
+  background: rgba(40, 40, 40, 0.9);
 }
 .expert-team .number {
   font-size: 48px;
