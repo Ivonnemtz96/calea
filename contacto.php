@@ -2,6 +2,7 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    include("php/msg.php");
 ?>
 
 <body class="body-wrapper">

@@ -161,7 +161,7 @@
                         <h3 class="title color-d_black">Escríbenos</h3>
                     </div>
 
-                    <form action="" method="POST">
+                    <form action="/php/contact.php" method="POST">
                         <div class="single-personal-info">
                             <input type="text" id="nombre" name="nombre" placeholder="Nombre *">
                         </div>
@@ -177,7 +177,11 @@
                         <div class="single-personal-info">
                             <textarea name="msj" placeholder="Mensaje"></textarea>
                         </div>
-
+                        <div class="row justify-content-start" style="margin-bottom: 3rem; margin-top:3rem;">
+                            <div class="col-12 col-md-5">
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+                            </div>
+                        </div>
                         <button type="submit" class="theme-btn btn-sm">Enviar <i
                                 class="far fa-chevron-double-right"></i></button>
                     </form>

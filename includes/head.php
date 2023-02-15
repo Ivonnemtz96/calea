@@ -25,4 +25,7 @@
     <!-- magnific popup -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
 
+    <!-- captcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>
