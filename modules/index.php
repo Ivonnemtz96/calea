@@ -37,7 +37,7 @@
 <!-- banner-home end -->
 
 <!-- about-us start -->
-<section class="about-us pb-xs-80 pt-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden">
+<section class="about-us  pt-xs-80 pt-sm-100 pt-md-100  pt-120 overflow-hidden">
     <div class="container" id="nosotros">
         <div class="row">
             <div class="col-xl-6">
@@ -117,10 +117,16 @@
 </section>
 <!-- about-us end -->
 
-<section class="our-company  pt-xs-80 pb-xs-80 pt-sm-100 pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden">
+<section class="our-company   pb-xs-80  pb-sm-100 pt-md-100 pb-md-100 pt-120 pb-120 overflow-hidden" style="margin-top: -5rem;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-sm-6">
+            <!-- <h3 style="margin-top: -6rem; margin-bottom: 1rem;" class="d-block d-md-none text-center">Más sobre nosotros</h3> -->
+            <h4 style="color:#000 !important; margin-top: -4rem;"
+                        class="sub-title fw-500 color-primary text-uppercase text-center mb-sm-10 mb-xs-5 mb-20 d-block d-md-none">
+                        <img src="assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
+                        Más sobre nosotros
+                    </h5>
+            <div class=" col-6 col-lg-3 col-sm-6 order-1 order-md-0">
                 <div class="our-company__meida">
                     <img src="assets/img/about/our-company-1.jpg" alt="" class="img-fluid">
 
@@ -134,7 +140,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-sm-6">
+            <div class="  col-6 col-lg-3 col-sm-6 order-2 order-md-1">
                 <div class="our-company__meida border-radius">
                     <img src="assets/img/about/our-company-2.jpg" alt="" class="img-fluid">
 
@@ -142,10 +148,10 @@
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-0 order-md-2">
                 <div class="our-company__content mt-md-50 mt-sm-40 mt-xs-35">
                     <span style="color:#000 !important;"
-                        class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block">
+                        class="sub-title fw-500 color-primary text-uppercase mb-sm-10 mb-xs-5 mb-20 d-none d-md-block">
                         <img src="assets/img/team-details/badge-line.svg" class="img-fluid mr-10" alt="">
                         Más sobre nosotros
                     </span>
@@ -179,11 +185,6 @@
                             </div>
 
                             <div class="client-feedback__item-body">
-                                <!-- <div class="number mb-10 mb-xs-5 color-d_black fw-600">+<span class="counter">95</span>%
-                                </div> -->
-                                <!-- <div class="description font-la mb-10 mb-xs-5">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do.</p>
-                                </div> -->
                                 <div>
                                     <ul>
                                         <li>Servicio </li>

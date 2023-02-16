@@ -8,9 +8,9 @@
                         <ul>
                             <!-- <li><a><i class="fal fa-clock"></i> Mon – Fri: 8.00 – 18.00</a></li> -->
                             <li>
-                                <a style="color: #000;" href="tel:3334795332">
+                                <a style="color: #000;" href="tel:3311964903">
                                     <i class="icon-phone"></i>
-                                    +52 333 479 5332
+                                    +52 331 196 4903
                                 </a>
                             </li>
 
@@ -72,14 +72,14 @@
 
                             <div class="horizontal-bar d-none d-md-block"></div>
 
-                            <a href="tel:+523334795332" class="header-contact d-none d-md-flex align-items-center">
+                            <a href="tel:+523311964903" class="header-contact d-none d-md-flex align-items-center">
                                 <div class="icon color-primary">
                                     <i class="icon-call"></i>
                                     <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Márcanos</span>
-                                    <h5 class="fw-500">333 479 5332</h5>
+                                    <h5 class="fw-500">331 196 4903</h5>
                                 </div>
                             </a>
 
@@ -139,7 +139,7 @@
                                 <div class="text">
                                     <span style="color:#fff;" class="font-la mb-5 d-block fw-500">Llámanos</span>
                                     <h5 style="color:#fff;" class="fw-500"><a style="color:#fff;"
-                                            href="tel:+523334795332">3334795332</a></h5>
+                                            href="tel:+523311964903">3311964903</a></h5>
                                 </div>
                             </a>
                         </li>

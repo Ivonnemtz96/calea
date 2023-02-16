@@ -15,13 +15,13 @@
 
                 <div class="col-9">
                     <div class="header-right-socail d-flex justify-content-end align-items-center">
-                        <a target="_blank" class="header-contact d-none d-md-flex align-items-center" href="tel:+523334795332">
+                        <a target="_blank" class="header-contact d-none d-md-flex align-items-center" href="tel:+523311964903">
                             <div class="icon color-yellow">
                                 <i style="color: #fff;" class="icon-phone"></i>
                             </div>
                             <div class="text">
                                 <span class="mb-5 d-block fw-normal color-white" style="color:#fff !important;">Llámanos</span>
-                                <h5 class="fw-500" style="color:#fff !important;">3334795332</h5>
+                                <h5 class="fw-500" style="color:#fff !important;">3311964903</h5>
                             </div>
                         </a>
 
@@ -187,14 +187,14 @@
                                     class="icon-email"></i>laleal@caleaconsultores.com</a>
                         </li>
                         <li>
-                            <a href="tel:+523334795332" class="header-contact d-flex align-items-center">
+                            <a href="tel:+523311964903" class="header-contact d-flex align-items-center">
                                 <div class="icon">
                                     <i class="icon-call"></i>
                                     <!-- <img src="/assets/img/icon/phone-1.svg" alt=""> -->
                                 </div>
                                 <div class="text">
                                     <span class="font-la mb-5 d-block fw-500">Contáctanos</span>
-                                    <h5 class="fw-500" style="color:#fff !important;">+52 333 479 5332</h5>
+                                    <h5 class="fw-500" style="color:#fff !important;">+52 331 196 4903</h5>
                                 </div>
                             </a>
                         </li>
