@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xl-6">
-                <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40">
+                <div class="banner-home__content pb-lg-60 pb-md-50 pb-sm-45 pb-xs-40" style="margin-top: 4rem;">
                     <h6 class="color-white mb-20 mb-sm-15 mb-xs-10 d-inline-block">Bienvenidos a
                         <strong style="color: #fff;">Calea Consultores</strong>
                     </h6>
@@ -370,7 +370,7 @@
                         </div>
                     </div>
 
-                    <div class="why-choose__item-wrapper d-grid justify-content-between">
+                    <div class="why-choose__item-wrapper d-grid justify-content-between text-center">
                         <div class="why-choose__item">
                             <div style="color:#000 !important;" class="icon mb-15 mb-md-10 mb-xs-5 color-yellow">
                                 <i class="icon-consultation"></i>
