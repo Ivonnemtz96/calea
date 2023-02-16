@@ -864,8 +864,8 @@
 /* VVV--popup button--VVV */
 .wa__btn_popup {
     position: fixed;
-    left: 1rem;
-    bottom: 1rem;
+    right: 1rem;
+    bottom: 5rem;
     cursor: pointer;
     font-family: Arial, Helvetica, sans-serif;
     z-index: 999;
